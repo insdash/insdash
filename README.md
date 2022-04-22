@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#insdash
+We do dive into diverse research and focus on interactivity to enhance the design process and delight the user experience.
