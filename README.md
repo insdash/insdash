@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # insdash
-We do dive into diverse research and focus on interactivity to enhance the design process and delight the user experience.
+We design it and we build it.
